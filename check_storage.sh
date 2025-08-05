@@ -1,7 +1,2 @@
 echo "check storage script"
-echo "check storage script"
-echo "check storage script"
-echo "check storage script"
-echo "check storage script"
-echo "check storage script"
-echo "check storage script"
+
